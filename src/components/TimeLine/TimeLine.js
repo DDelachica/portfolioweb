@@ -47,7 +47,7 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         Most of my background is in customer service and management. During the time I was stuck inside during the pandemic, 
-        I decided to enroll in an online coding bootcamp. Slowly trying to make that transition into the web development world.
+        I decided to enroll in an online coding bootcamp. I'm continuing to learn more about the growing tech industry to pursue my long time goal of working with computers.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
